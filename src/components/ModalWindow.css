@@ -1,0 +1,13 @@
+.modal-header {
+    display: flex;
+    flex-direction: column;
+}
+
+.instagram-username {
+    font-size: 14px;
+    color: #333;
+}
+
+.modal-image {
+    width: 100%;
+}
